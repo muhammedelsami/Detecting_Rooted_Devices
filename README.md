@@ -1,5 +1,7 @@
 # Detecting_Rooted_Devices
 
+This application aims to enhance security by detecting whether the device is rooted or not. Rooting an Android device allows the user to access system files that are normally restricted, which can compromise the security policies of the app. The application performs file system and command-based checks to prevent running on devices with root access. If the device is detected as rooted, a security warning is displayed to the user, and the app shuts down. This is a solution developed to increase security and ensure the app runs only on trusted devices.
+
 ## Steps to Make an Emulator Rooted
 
 1. **Download RootAVD:**
